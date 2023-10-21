@@ -1,12 +1,36 @@
-{"Version":"1.3","Url":"https://github.com/lovecoffeevpn/Super5-VPN/raw/main/Super5.zip","Text":"📢 New Update 
- 
-📶21/10/2023 Update
-VIP Servers Only
- 
-✅Add SG Servers
-✅Add Game Server
-🔘Dtac TrueMove 💯
-   🇹🇭 တစ်လ50ဘတ် 
-    Updateအဆင့်မြင့်တင်ရန်(OK)နိုပ်ပါ 👇
- 
- Thank You "}
+{
+   "files": [    
+
+{
+         "name": "TH-VIP-001",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-002.ovpn"
+      },
+{
+         "name": "TH-VIP-002",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/DTAC%26TRUE.ovpn"
+      },
+{
+         "name": "TH-VIP-003",
+         "url": "https://raw.github.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-009.ovpn"
+      },
+{
+         "name": "TH-VIP-004",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-002.ovpn"
+      },
+      {
+         "name": "TH-VIP-005",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-001.ovpn"
+      },
+{
+         "name": "TH-VIP-006",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-002.ovpn"
+      },
+      {
+         "name": "TH-VIP-007",
+         "url": "https://raw.githubusercontent.com/lovecoffeevpn/Lovecoffee/main/TH-VIP-007.ovpn"
+      }
+],
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ👇\nAll New Servers\nVersion: +1.3\n\nConfig By:HMT VIP VPN ",
+   "title":"Add DTAC&TRUE auto update file" ,
+   "version": 1.3
+}
